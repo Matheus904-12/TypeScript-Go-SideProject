@@ -1,0 +1,13 @@
+{
+  "name": "resgate.io",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "@tanstack/react-query": "^5.101.2",
+    "axios": "^1.18.1"
+  }
+}
